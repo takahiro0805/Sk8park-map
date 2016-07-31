@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>date.kml</name>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>date</name>
+		<open>1</open>
+		<Placemark>
+			<name>H.L.N.A SKATE PARK（H.L.N.A スケートパーク）</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/hlnaskate.png?raw=true">
+				<longitude>139.7759542446917</longitude>
+				<latitude>35.62541682346928</latitude>
+				<altitude>0</altitude>
+				<heading>1.799643713748458e-09</heading>
+				<tilt>0</tilt>
+				<range>1004.496429317676</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7759951441697,35.62520395152716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TRINITY B3 PARK
+</name>
+			<LookAt>
+				<img src ="https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/trinityb3skate.png?raw=true">
+				<longitude>139.6792546211628</longitude>
+				<latitude>35.79400552850554</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0002414156190906018</heading>
+				<tilt>15.9348273791642</tilt>
+				<range>535.0084093838093</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6797241669328,35.79410719604468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>戸吹スポーツ公園スケートパーク</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tobikiskate.jpg?raw=true">
+				<longitude>139.2900708006118</longitude>
+				<latitude>35.70078170303613</latitude>
+				<altitude>0</altitude>
+				<heading>3.570172629942797e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000026793567</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.2900789651098,35.70054302242962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>世田谷公園SLパーク</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/setagayaslskatye.png?raw=true">
+				<longitude>139.6784402665585</longitude>
+				<latitude>35.64414762145763</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001569051968072765</heading>
+				<tilt>0</tilt>
+				<range>1051.163988127802</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.681175229393,35.64411978062677,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>たちかわ中央公園　スケートパーク</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tatikawakouen.jpg?raw=true" >
+				<longitude>139.4078878968008</longitude>
+				<latitude>35.70335989901285</latitude>
+				<altitude>0</altitude>
+				<heading>-1.867011042456536e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000378178105</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.4078960588134,35.70312140065572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>稲城北緑地公園タマリパーク</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/inagi01.jpg?raw=true">
+				<longitude>139.5064306794029</longitude>
+				<latitude>35.64980636551301</latitude>
+				<altitude>0</altitude>
+				<heading>0.005884185030155129</heading>
+				<tilt>13.92159911711338</tilt>
+				<range>1473.149568473038</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5033163156828,35.64946617189327,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Analog Bowl Park（アナログ）</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/analog_bowl.jpg?raw=true">
+				<longitude>139.69487695071</longitude>
+				<latitude>35.66416263267056</latitude>
+				<altitude>0</altitude>
+				<heading>1.601892726428463e-09</heading>
+				<tilt>0</tilt>
+				<range>1003.823641572005</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6949178895588,35.66405619778537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>西東京いこいの森公園スケートパーク</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/nishitokyoikoiskate.jpg?raw=true">
+				<longitude>139.5397193046587</longitude>
+				<latitude>35.74042553390624</latitude>
+				<altitude>0</altitude>
+				<heading>0.0005812402560295652</heading>
+				<tilt>12.923624944445</tilt>
+				<range>421.1277464541217</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5397193046587,35.74042553390624,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OASIS24 MIZUHO BASE</name>
+			<LookAt>
+				<img src= "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/24mizuhobase.jpg?raw=true">
+				<longitude>139.3376169511502</longitude>
+				<latitude>35.7738490235744</latitude>
+				<altitude>0</altitude>
+				<heading>3.159197481006754e-05</heading>
+				<tilt>13.43039122479329</tilt>
+				<range>497.6770689351962</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.3375246209319,35.77363384946185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>駒沢オリンピック公園　ストリートスポーツ広場</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/komazawa.png?raw=true">
+				<longitude>139.6600507478047</longitude>
+				<latitude>35.62450974926745</latitude>
+				<altitude>0</altitude>
+				<heading>0.001021670412169935</heading>
+				<tilt>14.61973021387181</tilt>
+				<range>761.7314602054082</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6620843971303,35.62496757410579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京都立城南島海浜公園スケボー広場</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/johnanjima04.jpg?raw=true">
+				<longitude>139.7797116024507</longitude>
+				<latitude>35.58435829745685</latitude>
+				<altitude>0</altitude>
+				<heading>1.426049399754389e-09</heading>
+				<tilt>0</tilt>
+				<range>1000.000531074611</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7798012548416,35.58398711546635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>東京ドーム ローラースケートアリーナ</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/tokyodomeskate.jpg?raw=true">
+				<longitude>139.7533531993703</longitude>
+				<latitude>35.70467089735072</latitude>
+				<altitude>0</altitude>
+				<heading>-3.674876490056577e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000403221248</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7533776785169,35.70443240540251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>武蔵野ストリートスポーツ広場</name>
+			<LookAt>
+				<img src ="https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/musashinoskate.png?raw=true">
+				<longitude>139.5677034077043</longitude>
+				<latitude>35.71867130352714</latitude>
+				<altitude>0</altitude>
+				<heading>7.283014205343462e-06</heading>
+				<tilt>7.687567724263264</tilt>
+				<range>662.8038201174958</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5677087997368,35.71858235576132,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>夕凪橋際遊び場‎（ゆうなぎばしぎわあそびば）</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/yuunagaibashiskate.jpg?raw=true">
+				<longitude>139.7502876285423</longitude>
+				<latitude>35.63911103939584</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0001151731968411617</heading>
+				<tilt>29.99955992778771</tilt>
+				<range>146.1041482449355</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.750211791223,35.63922743300522,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ランプハウス東京</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/ranmphousetokyo.jpg?raw=true">
+				<longitude>139.3413398798487</longitude>
+				<latitude>35.7650451782721</latitude>
+				<altitude>0</altitude>
+				<heading>-2.349896940873012e-06</heading>
+				<tilt>0</tilt>
+				<range>1005.355967706876</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.341413792877,35.76489857379481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Skate Park MAP’S TOKYO（マップス東京）</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/mapstpkyo1.png?raw=true" >
+				<longitude>139.8100454199649</longitude>
+				<latitude>35.74230112443208</latitude>
+				<altitude>0</altitude>
+				<heading>-3.389294485207967e-09</heading>
+				<tilt>0</tilt>
+				<range>1006.678718391269</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.8100864693257,35.74208789915115,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>アメージングスクエア跡地</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/ameajingskate.jpg?raw=true" >
+				<longitude>139.6075000386282</longitude>
+				<latitude>35.66104735804207</latitude>
+				<altitude>0</altitude>
+				<heading>3.967964603953439e-10</heading>
+				<tilt>0</tilt>
+				<range>1005.282581901514</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.6075082334906,35.66087425259958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>宮下公園スケートパーク</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/miyashitaskate.png?raw=true" >
+				<longitude>139.701659964261</longitude>
+				<latitude>35.66320433217348</latitude>
+				<altitude>0</altitude>
+				<heading>-6.905380766606927e-05</heading>
+				<tilt>29.81440321819217</tilt>
+				<range>124.3616297277786</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.7017577525062,35.66334212914895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>祖師谷公園</name>
+			<LookAt>
+				<img src = "https://github.com/takahiro0805/DigitalEarthArchive/blob/master/img/soshigayaskate.jpg?raw=true" >
+				<longitude>139.5993042002742</longitude>
+				<latitude>35.65429499772315</latitude>
+				<altitude>0</altitude>
+				<heading>1.59845136626312e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000458691178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>139.5993286556515,35.65405654339153,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
